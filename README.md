@@ -365,26 +365,6 @@ Create a new account from Register page and then login.
 
 ---
 
-## Files Excluded from GitHub Upload
-
-As per your note, these are intentionally excluded:
-
-- `Internship_Report_Source.md`
-- `Internship_Report.docx`
-- `Review 2 ppt content.docx`
-- `Vikas Karthik S_Internship_Report_Review_1.pptx`
-- `.settings/`
-- `.vscode/`
-
----
-
-## License
-
-This project currently has no explicit license file.  
-If needed, add a `LICENSE` file (e.g., MIT/Apache-2.0) before public distribution.
-
----
-
 ## Author
 
 **Vikas Karthik S**  
