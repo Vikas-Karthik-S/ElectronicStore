@@ -284,7 +284,7 @@ Contains:
 
 ## 1) Clone repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vikas-Karthik-S/ElectronicStore.git
 cd ElectronicStore
 ```
 
